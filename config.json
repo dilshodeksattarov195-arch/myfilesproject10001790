@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsalidate",
+        "uuid": 14518690,
+        "checksum": "dzby68"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
